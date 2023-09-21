@@ -1,0 +1,13 @@
+img{
+  cursor: pointer;
+}
+.PopularPosts{
+  float: left;
+  }
+ 
+
+body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
+
+.RecentsPosts{
+  margin:bottom 70px;
+}
